@@ -108,7 +108,7 @@ Robot with active adhesion for vertical surfaces. v1 presented at **European Res
 
 ---
 
-### 🚙 [Bluetooth Mini Tank — v1](https://github.com/leogamerxxl/tank-bt)
+### 🚙 [Bluetooth Mini Tank — v1]([https://github.com/leogamerxxl/tank-bt](https://github.com/leogamerxxl/Mini-Tank-Bluetooth-Controlled-with-Turret))
 > **v1 Completed · v2 In Design**
 
 Tracked vehicle with 4 DC motors, 2-axis servo turret (360° pan + 90° tilt), controlled via Android app using ASCII commands over Bluetooth.
